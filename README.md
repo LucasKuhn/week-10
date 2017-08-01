@@ -4,13 +4,17 @@ Simply a place to gather things to do after DBC
 **Places to learn**
 
 - [Frontend Masters](https://frontendmasters.com/) - Use [this](https://frontendmasters.com/enroll/prepaid/) link with the code sent to you by email
-- [PHASE-3 GUIDE](https://github.com/nyc-fiddler-crabs-2017/phase-3-guide) - On Week 8, learn React
+- [Phase-3 Guide](https://github.com/nyc-fiddler-crabs-2017/phase-3-guide) - On Week 8 of the new curriculum, learn React
 
 **Places to discover**
-- [StackShare](https://stackshare.io/) - See what companies are Using
+- [StackShare](https://stackshare.io/) - See what languages companies are using
 
 **Careers**  
-- [Skilled](https://www.skilledinc.com/) - Redeem your Mock Interview! (finish your Resume first, it is required)
+- [Skilled](https://www.skilledinc.com/) - Redeem your Mock Interview! (finish your Resume first)
+- BUILD YOUR RESUME!
+  - [HTML 5 Up](https://html5up.net/) - Templates to make your personal website
+  - [Git Showcase](https://www.gitshowcase.com) - Creates a website from your GitHub
+  - [Awesome ReadMe](https://github.com/matiassingers/awesome-readme) - A collection of good GitHub Readme files
 
 **Prep for Life**
 
