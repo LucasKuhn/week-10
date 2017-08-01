@@ -3,7 +3,7 @@ Simply a place to gather things to do after DBC
 ### Core
 **Places to learn**
 
-- [Frontend Masters](https://frontendmasters.com/) - DBC Students have 1 year for free!
+- [Frontend Masters](https://frontendmasters.com/) - Use [this](https://frontendmasters.com/enroll/prepaid/) link with the code sent to you by email
 - [PHASE-3 GUIDE](https://github.com/nyc-fiddler-crabs-2017/phase-3-guide) - On Week 8, learn React
 
 **Places to discover**
