@@ -11,6 +11,9 @@ Simply a place to gather things to do after DBC
 
 **Careers**  
 - [Skilled](https://www.skilledinc.com/) - Redeem your Mock Interview! (finish your Resume first)
+- CAREERS RESOURCES
+  - [Google Drive Folder](https://drive.google.com/drive/folders/0B3_phrRE1e2HOWFMaTVfb0Nsbk0)
+  - [Job and Activity Tracker]
 - BUILD YOUR RESUME!
   - [HTML 5 Up](https://html5up.net/) - Templates to make your personal website
   - [Git Showcase](https://www.gitshowcase.com) - Creates a website from your GitHub
