@@ -13,7 +13,8 @@ Simply a place to gather things to do after DBC
 - [Skilled](https://www.skilledinc.com/) - Redeem your Mock Interview! (finish your Resume first)
 - CAREERS RESOURCES
   - [Google Drive Folder](https://drive.google.com/drive/folders/0B3_phrRE1e2HOWFMaTVfb0Nsbk0)
-  - [Job and Activity Tracker]
+  - [Job and Activity Tracker](https://docs.google.com/spreadsheets/d/1u2cxtRDbGKo9BiAHgauQZFOdE4hvK_nU0YiVFK0_qro/edit#gid=894268417)
+  - [Google Calendar](https://calendar.google.com/)
 - BUILD YOUR RESUME!
   - [HTML 5 Up](https://html5up.net/) - Templates to make your personal website
   - [Git Showcase](https://www.gitshowcase.com) - Creates a website from your GitHub
@@ -26,4 +27,4 @@ Simply a place to gather things to do after DBC
 ### Additional Resources
 
 - [Amazon Web Services](../resources/cool-stuff-in-rails.md)- Follow [These](https://docs.google.com/document/d/1RuabdIr_GTP09gqTqh_-RKQeKbSEo1NMrnbumVpokos/edit) instructions and get your credits
--[Google Calendar](https://calendar.google.com/) - Follow the events
+
