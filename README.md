@@ -23,3 +23,4 @@ Simply a place to gather things to do after DBC
 ### Additional Resources
 
 - [Amazon Web Services](../resources/cool-stuff-in-rails.md)- Follow [These](https://docs.google.com/document/d/1RuabdIr_GTP09gqTqh_-RKQeKbSEo1NMrnbumVpokos/edit) instructions and get your credits
+-[Google Calendar](https://calendar.google.com/) - Follow the events
