@@ -12,6 +12,7 @@ Simply a place to gather things to do after DBC
 **Careers**  
 - [Skilled](https://www.skilledinc.com/) - Redeem your Mock Interview! (finish your Resume first)
 - CAREERS RESOURCES
+  - [Resumes Folder](https://drive.google.com/drive/folders/0B-8NMt0t3FoBZFhpSzBUUWhqX0E)
   - [Google Drive Folder](https://drive.google.com/drive/folders/0B3_phrRE1e2HOWFMaTVfb0Nsbk0)
   - [Job and Activity Tracker](https://docs.google.com/spreadsheets/d/1u2cxtRDbGKo9BiAHgauQZFOdE4hvK_nU0YiVFK0_qro/edit#gid=894268417)
   - [Google Calendar](https://calendar.google.com/)
