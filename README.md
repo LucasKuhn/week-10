@@ -4,14 +4,12 @@ Simply a place to gather things to do after DBC
 ### Places to learn
 
 - [Frontend Masters](https://frontendmasters.com/) - Use [this](https://frontendmasters.com/enroll/prepaid/) link with the code sent to you by email
-- Suggestions: 
   - [Intermediate-Level Courses](https://frontendmasters.com/courses/#intermediate)
   - [Complete Intro to React](https://frontendmasters.com/courses/react/)
   - [Testing JavaScript Applications](https://frontendmasters.com/courses/testing-javascript/)
   - [Firebase + React: Real-time, Serverless Web Apps](https://frontendmasters.com/courses/firebase-react/)
   
 - [Udemy](https://www.udemy.com/)
-- Suggestions:  
   - [Complete React native and Redux](udemy.com/the-complete-react-native-and-redux-course/) - Please don't buy anything at full price on Udemy, there's always promotions like 90% off
 - Haven't tried these below yet:
   - [DataCamp](https://www.datacamp.com/pricing) 
