@@ -38,8 +38,9 @@ Simply a place to gather things to do after DBC
 
 ## Additional Resources
 
-- [Amazon Web Services](../resources/cool-stuff-in-rails.md)- Follow [These](https://docs.google.com/document/d/1RuabdIr_GTP09gqTqh_-RKQeKbSEo1NMrnbumVpokos/edit) instructions and get your credits
-** Books / E-Books (Of course, I've read none so far, obviously, I'm lazy. This is a super biased list don't trust me) **
+- [Amazon Web Services](../resources/cool-stuff-in-rails.md)- Follow [These](https://docs.google.com/document/d/1RuabdIr_GTP09gqTqh_-RKQeKbSEo1NMrnbumVpokos/edit) instructions and get your credits  
+
+**Books / E-Books (Of course, I've read none so far, obviously, I'm lazy. This is a super biased list don't trust me)**  
 - [Computer Science Distilled](https://www.youtube.com/watch?v=tvTRZJ-4EyI&list=RDtvTRZJ-4EyI) 19 $
 - [Learn to Code Now](https://www.superhi.com/learn-to-code-now-book?utm_campaign=c88_25a_1606_Course_lookalikes_ccad&utm_medium=facebook_social&utm_source=facebook) - 29 $ - Super Beginner
 - [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B06XCCZJ4L/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) 
