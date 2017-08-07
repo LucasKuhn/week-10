@@ -39,5 +39,7 @@ Simply a place to gather things to do after DBC
 
 - [Amazon Web Services](../resources/cool-stuff-in-rails.md)- Follow [These](https://docs.google.com/document/d/1RuabdIr_GTP09gqTqh_-RKQeKbSEo1NMrnbumVpokos/edit) instructions and get your credits
 
+## Enviromental Setup
+ - [Hunter's Guide](https://github.com/bootcoder/ENV_Scratch_Setup) I went back to Phase-0 (really) to set up my new macbook and recently found this guide from hunter and it is way better in my opinion. If you have a fresh new MacOS this is the place to start
 ## For Sea Lions
 - [Phase-3 Guide](https://github.com/nyc-fiddler-crabs-2017/phase-3-guide) - On Week 8 of the new curriculum, React was added
