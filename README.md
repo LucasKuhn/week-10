@@ -13,7 +13,10 @@ Simply a place to gather things to do after DBC
 - [Udemy](https://www.udemy.com/)
 - Suggestions:  
   - [Complete React native and Redux](udemy.com/the-complete-react-native-and-redux-course/) - Please don't buy anything at full price on Udemy, there's always promotions like 90% off
-- [DataCamp](https://www.datacamp.com/pricing) - Seems a nice place to learn Data Science, haven't tried it yet
+- Haven't tried these below yet:
+  - [DataCamp](https://www.datacamp.com/pricing) 
+  -  [Zenva](https://academy.zenva.com/)
+  - [Free Code Camp](https://www.freecodecamp.org/)
 
 
 ### Places to discover
